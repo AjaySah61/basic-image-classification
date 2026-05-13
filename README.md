@@ -394,8 +394,8 @@ This project demonstrates skills relevant to:
 
 **Ajay Sah**
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+* GitHub: [https://github.com/AjaySah61](https://github.com/AjaySah61)
+* LinkedIn: [https://www.linkedin.com/in/ajaysah-ai](https://www.linkedin.com/in/ajaysah-ai)
 
 ---
 
